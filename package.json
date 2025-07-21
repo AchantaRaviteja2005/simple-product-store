@@ -4,7 +4,7 @@
   "description": "Building a Simple Product Store Using MERN stack, where user can add, update and delete products.",
   "main": "index.js",
   "scripts": {
-    "dev": "node backend/server.js"
+    "dev": "nodemon backend/server.js"
   },
   "repository": {
     "type": "git",
