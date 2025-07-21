@@ -1,0 +1,29 @@
+{
+  "name": "simple-product-store",
+  "version": "1.0.0",
+  "description": "Building a Simple Product Store Using MERN stack, where user can add, update and delete products.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node backend/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AchantaRaviteja2005/simple-product-store.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/AchantaRaviteja2005/simple-product-store/issues"
+  },
+  "homepage": "https://github.com/AchantaRaviteja2005/simple-product-store#readme",
+  "dependencies": {
+    "dotenv": "^17.2.0",
+    "express": "^5.1.0",
+    "mongoose": "^8.16.4"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
